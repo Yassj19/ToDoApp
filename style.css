@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  background: #F5F5DC;
 }
 
 .container {
@@ -107,7 +107,7 @@ h1 {
 }
 
 .edit-btn {
-  background: #B851A2;
+  background: #FFA07A;
   color: black;
 }
 
